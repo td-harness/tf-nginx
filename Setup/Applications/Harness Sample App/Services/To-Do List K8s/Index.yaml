@@ -1,0 +1,10 @@
+harnessApiVersion: '1.0'
+type: SERVICE
+artifactType: DOCKER
+configVariables:
+- name: svcvar1
+  value: '123'
+  valueType: TEXT
+deploymentType: KUBERNETES
+description: Sample To-Do List Docker Image
+helmVersion: V2

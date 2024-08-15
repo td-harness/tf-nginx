@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: APPLICATION
+areWebHookSecretsMandated: false
+branchName: main
+description: Harness Sample App
+gitConnector: test-pp
+isGitSyncEnabled: true
+isManualTriggerAuthorized: false
